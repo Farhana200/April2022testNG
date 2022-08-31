@@ -15,7 +15,9 @@ public class pactTNG2 {
      }
      public static void test2(){
     	 System.out.println(1);
-    	 System.out.println(3);
+    	 System.out.println(6);
+    	 System.out.println(12);
+    	 System.out.println(12);
     	 System.out.println(12);
      }
 }
